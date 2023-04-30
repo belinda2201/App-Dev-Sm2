@@ -1,0 +1,18 @@
+C:\Users\Belinda\source\repos\CA week 3\CA week 3\bin\Debug\net6.0-windows\CA week 3.exe
+C:\Users\Belinda\source\repos\CA week 3\CA week 3\bin\Debug\net6.0-windows\CA week 3.deps.json
+C:\Users\Belinda\source\repos\CA week 3\CA week 3\bin\Debug\net6.0-windows\CA week 3.runtimeconfig.json
+C:\Users\Belinda\source\repos\CA week 3\CA week 3\bin\Debug\net6.0-windows\CA week 3.dll
+C:\Users\Belinda\source\repos\CA week 3\CA week 3\bin\Debug\net6.0-windows\CA week 3.pdb
+C:\Users\Belinda\source\repos\CA week 3\CA week 3\obj\Debug\net6.0-windows\CA week 3.csproj.AssemblyReference.cache
+C:\Users\Belinda\source\repos\CA week 3\CA week 3\obj\Debug\net6.0-windows\CA_week_3.MainWindowForm.resources
+C:\Users\Belinda\source\repos\CA week 3\CA week 3\obj\Debug\net6.0-windows\CA_week_3.SecondWindowForm.resources
+C:\Users\Belinda\source\repos\CA week 3\CA week 3\obj\Debug\net6.0-windows\CA week 3.csproj.GenerateResource.cache
+C:\Users\Belinda\source\repos\CA week 3\CA week 3\obj\Debug\net6.0-windows\CA week 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belinda\source\repos\CA week 3\CA week 3\obj\Debug\net6.0-windows\CA week 3.AssemblyInfoInputs.cache
+C:\Users\Belinda\source\repos\CA week 3\CA week 3\obj\Debug\net6.0-windows\CA week 3.AssemblyInfo.cs
+C:\Users\Belinda\source\repos\CA week 3\CA week 3\obj\Debug\net6.0-windows\CA week 3.csproj.CoreCompileInputs.cache
+C:\Users\Belinda\source\repos\CA week 3\CA week 3\obj\Debug\net6.0-windows\CA week 3.dll
+C:\Users\Belinda\source\repos\CA week 3\CA week 3\obj\Debug\net6.0-windows\refint\CA week 3.dll
+C:\Users\Belinda\source\repos\CA week 3\CA week 3\obj\Debug\net6.0-windows\CA week 3.pdb
+C:\Users\Belinda\source\repos\CA week 3\CA week 3\obj\Debug\net6.0-windows\CA week 3.genruntimeconfig.cache
+C:\Users\Belinda\source\repos\CA week 3\CA week 3\obj\Debug\net6.0-windows\ref\CA week 3.dll
