@@ -1,0 +1,18 @@
+C:\Users\Belinda\source\repos\AD W6\AD W6\bin\Debug\net6.0-windows\AD W6.exe
+C:\Users\Belinda\source\repos\AD W6\AD W6\bin\Debug\net6.0-windows\AD W6.deps.json
+C:\Users\Belinda\source\repos\AD W6\AD W6\bin\Debug\net6.0-windows\AD W6.runtimeconfig.json
+C:\Users\Belinda\source\repos\AD W6\AD W6\bin\Debug\net6.0-windows\AD W6.dll
+C:\Users\Belinda\source\repos\AD W6\AD W6\bin\Debug\net6.0-windows\AD W6.pdb
+C:\Users\Belinda\source\repos\AD W6\AD W6\obj\Debug\net6.0-windows\AD W6.csproj.AssemblyReference.cache
+C:\Users\Belinda\source\repos\AD W6\AD W6\obj\Debug\net6.0-windows\AD_W6.Form1.resources
+C:\Users\Belinda\source\repos\AD W6\AD W6\obj\Debug\net6.0-windows\AD_W6.Properties.Resources.resources
+C:\Users\Belinda\source\repos\AD W6\AD W6\obj\Debug\net6.0-windows\AD W6.csproj.GenerateResource.cache
+C:\Users\Belinda\source\repos\AD W6\AD W6\obj\Debug\net6.0-windows\AD W6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belinda\source\repos\AD W6\AD W6\obj\Debug\net6.0-windows\AD W6.AssemblyInfoInputs.cache
+C:\Users\Belinda\source\repos\AD W6\AD W6\obj\Debug\net6.0-windows\AD W6.AssemblyInfo.cs
+C:\Users\Belinda\source\repos\AD W6\AD W6\obj\Debug\net6.0-windows\AD W6.csproj.CoreCompileInputs.cache
+C:\Users\Belinda\source\repos\AD W6\AD W6\obj\Debug\net6.0-windows\AD W6.dll
+C:\Users\Belinda\source\repos\AD W6\AD W6\obj\Debug\net6.0-windows\refint\AD W6.dll
+C:\Users\Belinda\source\repos\AD W6\AD W6\obj\Debug\net6.0-windows\AD W6.pdb
+C:\Users\Belinda\source\repos\AD W6\AD W6\obj\Debug\net6.0-windows\AD W6.genruntimeconfig.cache
+C:\Users\Belinda\source\repos\AD W6\AD W6\obj\Debug\net6.0-windows\ref\AD W6.dll
